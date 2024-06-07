@@ -4,10 +4,10 @@ Please thoroughly read the instructions below before you take the Final Exam.
 Write a Python program that takes as input a file containing DNA sequences in multi-FASTA format, and computes the answers to the following questions. You can choose to write one program with multiple functions to answer these questions, or you can write several programs to address them. We will provide a multi-FASTA file for you, and you will run your program to answer the exam questions. 
 
 While developing your program(s), please use the following example file to test your work: 
-[dna.example.fasta]
+[dna.example.fasta](dna.example.fasta)
 
 For the final exam, please run the following data set in the program(s) that you have written: 
-[dna2.fasta]
+[dna2.fasta](dna2.fasta)
 
 Here are the questions your program needs to answer. The quiz itself contains the specific multiple-choice questions you need to answer for the file you will be provided.
 
